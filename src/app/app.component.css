@@ -1,0 +1,17 @@
+tabel, th, td {
+    border: 1px solid gray;
+    border-collapse: collapse;
+    padding: 10px;
+  }
+td {
+  background-color: rgb(162, 82, 82);
+  color: #fff;
+}
+th {
+  background-color: rgb(84, 173, 106);
+}
+input {
+  width: 400px;
+  padding: 20px;
+  font-size: 20px;
+}
